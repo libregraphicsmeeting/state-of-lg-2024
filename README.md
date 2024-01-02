@@ -2,7 +2,7 @@
 
 The opening presentation at Libre Graphics Meeting is “State of Libre Graphics,” an update from the many software, curation publication and umbrella projects of our Libre Graphics community. 
 
-For each project we want a title slide and maimum one content slide.
+For each project we want a title slide and maximum one content slide.
 
 - The title slide should/could contain name of project, logo and perhaps a brief tag-line for/description of the project.
 - The content slide should be about changes in the last year; and, possibly, about the plans for the near future
