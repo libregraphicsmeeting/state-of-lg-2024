@@ -23,6 +23,7 @@ Add one sentence in here that describes what your project does.
 
 ![](sample-project-1.png)
 
+Speakers Notes:  
 Tell what your project did last year and/or what are the plans for next year.
 
 ---
